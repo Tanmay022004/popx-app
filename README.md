@@ -36,7 +36,7 @@ The form data entered during account creation (name and email) is carried over t
 Clone the repo and run it locally:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/popx-app.git
+git clone https://github.com/Tanmay022004/popx-app.git
 cd popx-app
 npm install
 npm run dev
@@ -72,16 +72,16 @@ popx-app/
 
 ## Live Demo
 
-Hosted on Vercel: [https://popx-app.vercel.app](https://popx-app.vercel.app)
+Hosted on Vercel: [https://popx-app-react.vercel.app/]
 
-GitHub Repository: [https://github.com/YOUR_USERNAME/popx-app](https://github.com/YOUR_USERNAME/popx-app)
+GitHub Repository: [https://github.com/Tanmay022004/popx-app.git]
 
 ---
 
 ## Design Reference
 
 The UI was built based on this Adobe XD design:
-[https://xd.adobe.com/view/b68eea25-003d-4a5d-8fdd-d463eeb20b32-e3dd](https://xd.adobe.com/view/b68eea25-003d-4a5d-8fdd-d463eeb20b32-e3dd)
+[https://xd.adobe.com/view/b68eea25-003d-4a5d-8fdd-d463eeb20b32-e3dd]
 
 ---
 

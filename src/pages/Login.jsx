@@ -26,8 +26,8 @@ const Login = () => {
           PopX account
         </h1>
         <p className="login-subtitle">
-          Lorem ipsum dolor sit amet,<br />
-          consectetur adipiscing elit,
+          Sign in to continue and manage<br />
+          your PopX account.
         </p>
 
         <div className="form-group">
