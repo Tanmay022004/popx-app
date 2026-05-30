@@ -40,8 +40,8 @@ const AccountSettings = () => {
         </div>
 
         <p className="settings-description">
-          Lorem Ipsum Dolor Sit Amet, Consetetur Sadipscing Elitr, Sed Diam Nonumy Eirmod
-          Tempor Invidunt Ut Labore Et Dolore Magna Aliquyam Erat, Sed Diam
+          Manage your profile details, update your preferences, and keep your account
+          information up to date all from one place.
         </p>
 
         <div className="settings-divider" />
